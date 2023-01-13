@@ -1,0 +1,15 @@
+D:\Kononova\homeTask_3\Task_23\bin\Debug\net7.0\Task_23.exe
+D:\Kononova\homeTask_3\Task_23\bin\Debug\net7.0\Task_23.deps.json
+D:\Kononova\homeTask_3\Task_23\bin\Debug\net7.0\Task_23.runtimeconfig.json
+D:\Kononova\homeTask_3\Task_23\bin\Debug\net7.0\Task_23.dll
+D:\Kononova\homeTask_3\Task_23\bin\Debug\net7.0\Task_23.pdb
+D:\Kononova\homeTask_3\Task_23\obj\Debug\net7.0\Task_23.csproj.AssemblyReference.cache
+D:\Kononova\homeTask_3\Task_23\obj\Debug\net7.0\Task_23.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kononova\homeTask_3\Task_23\obj\Debug\net7.0\Task_23.AssemblyInfoInputs.cache
+D:\Kononova\homeTask_3\Task_23\obj\Debug\net7.0\Task_23.AssemblyInfo.cs
+D:\Kononova\homeTask_3\Task_23\obj\Debug\net7.0\Task_23.csproj.CoreCompileInputs.cache
+D:\Kononova\homeTask_3\Task_23\obj\Debug\net7.0\Task_23.dll
+D:\Kononova\homeTask_3\Task_23\obj\Debug\net7.0\refint\Task_23.dll
+D:\Kononova\homeTask_3\Task_23\obj\Debug\net7.0\Task_23.pdb
+D:\Kononova\homeTask_3\Task_23\obj\Debug\net7.0\Task_23.genruntimeconfig.cache
+D:\Kononova\homeTask_3\Task_23\obj\Debug\net7.0\ref\Task_23.dll
