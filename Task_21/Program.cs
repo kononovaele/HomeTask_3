@@ -2,13 +2,15 @@
 // Задача 21. Напишите программу, которая принимает на вход координаты двух точек и находит расстояние
 //  между ними в 3D пространстве
 //
-using System;
 
-// Функция принимает три аргумента (целые числа) и возвращает расстояние между ними (вещественное число)
-double GetDistance(int x, int y, int z)
+// Функция принимает itcnm аргументjd (целые числа) и возвращает расстояние между ними (вещественное число),
+// округленное до двух сотых
+// Для возведения в степень, используем функцию: Pow()
+// Для вычисления квадратного корня используем функцию: Sqrt()
+double GetDistance(int x1, int y1, int z1, int x2, int y2, int z2)
 {
 
-    return Math.Sqrt(x * x + y * y + z * z);
+    return Math.Round(Math.Sqrt(Math.Pow((x2 - x1), 2) + Math.Pow((y2 - y1), 2) + Math.Pow((z2 - z1), 2)), 2);
 
 }
 
@@ -16,20 +18,9 @@ void main()
 {
     Console.WriteLine(" ------- Task-21 -------");
 
-    int x = 1;
-    int y = 1;
-    int z = 1;
-    //Сonsole.WriteLine(GetDistance(x, y, z));
-    //Сonsole.Write(12);
+    Console.WriteLine(GetDistance(3, 6, 8, 2, 1, -7));
 
-    x = 2; y = 2; z = 2;
-    //Сonsole.WriteLine(GetDistance(x, y, z));
-
-    x = 10;
-    y = 10;
-    z = 10;
-    //Сonsole.WriteLine(GetDistance(x, y, z));
-
+    Console.WriteLine(GetDistance(7, -5, 0, 1, -1, 9));
 }
 
 main();
