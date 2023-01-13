@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Kononova\\homeTask_3\\Task_23\\Task_23.csproj": {}
+    "D:\\Kononova\\hometask_3\\Task_23\\Task_23.csproj": {}
   },
   "projects": {
-    "D:\\Kononova\\homeTask_3\\Task_23\\Task_23.csproj": {
+    "D:\\Kononova\\hometask_3\\Task_23\\Task_23.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Kononova\\homeTask_3\\Task_23\\Task_23.csproj",
+        "projectUniqueName": "D:\\Kononova\\hometask_3\\Task_23\\Task_23.csproj",
         "projectName": "Task_23",
-        "projectPath": "D:\\Kononova\\homeTask_3\\Task_23\\Task_23.csproj",
+        "projectPath": "D:\\Kononova\\hometask_3\\Task_23\\Task_23.csproj",
         "packagesPath": "C:\\Users\\1C\\.nuget\\packages\\",
-        "outputPath": "D:\\Kononova\\homeTask_3\\Task_23\\obj\\",
+        "outputPath": "D:\\Kononova\\hometask_3\\Task_23\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
